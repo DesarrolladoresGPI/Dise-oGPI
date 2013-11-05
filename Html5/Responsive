@@ -1,0 +1,11 @@
+Dise-oGPI
+=========
+
+Se describe el código fuente de la interfaz principal
+
+
+<html>
+<body>
+<input type="text" name="nombre" required/>
+</body>
+</html>
