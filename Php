@@ -1,2 +1,0 @@
-***
-COdigo para conexion a base de datos
