@@ -1,0 +1,33 @@
+Dise-oGPI
+=========
+
+Se describe el código fuente de la interfaz principal
+
+
+input:invalid {
+ 
+border: 1px solid red;
+ 
+}
+ 
+/* Estilo por defecto */
+ 
+input:valid {
+ 
+border: 1px solid green;
+ 
+}
+
+/* Estilo por defecto */
+ 
+input:required:invalid {
+ 
+border: 1px solid red;
+ 
+}
+ 
+input:required:valid {
+ 
+border: 1px solid green;
+ 
+}
